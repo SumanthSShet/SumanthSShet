@@ -1,11 +1,9 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*qG_RwziKYfcBHoQpSnDPXg.gif)
 <h1 align="center">Hi 👋, I'm Sumanth S Shet</h1>
 <h3 align="center">I'm VR developer designing the next generation of experiences.</h3>
-<img align="right" alt="VR-Ex" width="300" src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/41/1476193600-psvr.gif?resize=1200:*">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthsshet&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthsshet" /> </p>
+<img align="right" alt="VR-Ex" width="400" src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/41/1476193600-psvr.gif?resize=1200:*">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanthsshet" alt="sumanthsshet" /></a> </p>
 
 - 🔭 I’m currently working on [SOM-Lab Experiments](https://github.com/SumanthSShet/Strength_Of_Materials)
 
