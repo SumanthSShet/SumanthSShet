@@ -5,11 +5,11 @@
 <img align="right" alt="VR-Ex" width="400" src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/41/1476193600-psvr.gif?resize=1200:*">
 
 
-- 🔭 I’m currently working on [SOM-Lab Experiments](https://github.com/SumanthSShet/Strength_Of_Materials)
+- 🔭 I’m currently working on [SOM-Lab Experiments](Classified)
 
 - 🌱 I’m currently learning **Building VR worlds with Unity.**
 
-- 🤝 I’m looking for help with [SOM-Lab Experiments](https://github.com/SumanthSShet/Strength_Of_Materials)
+- 🤝 I’m looking for help with [SOM-Lab Experiments](Classified)
 
 - 📝 I regularly write articles on [VR, GameDevelopment](VR, GameDevelopment)
 
