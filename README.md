@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*qG_RwziKYfcBHoQpSnDPXg.gif)
-<h1 align="center">Hi 👋, I'm Sumanth S Shet</h1>
+<h1 align="center">Hi 👋, I'm Sumanth </h1>
 <h3 align="center">I'm VR developer designing the next generation of experiences.</h3>
 
 <img align="right" alt="VR-Ex" width="400" src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/41/1476193600-psvr.gif?resize=1200:*">
