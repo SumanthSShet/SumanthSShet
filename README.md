@@ -1,75 +1,151 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/1*qG_RwziKYfcBHoQpSnDPXg.gif" alt="MasterHead" width="100%" style="filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%); border-radius: 4px; margin-bottom: 30px;">
-  
-  <h1 style="color: #FF0000; font-size: 3.5em; margin-bottom: 5px; font-family: monospace;">I'm Sumanth</h1>
-  <p style="color: #A9A9A9; font-style: italic; font-size: 1.2em; margin-top: 0; font-family: monospace;">VR Developer Crafting the Future of Virtual Experiences</p>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      SUMANTH S SHET                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<hr style="border: 1px solid #333;">
+<div align="center">
 
 <br>
 
-<div align="center">
-  <h3 style="color: #FF0000; font-family: monospace;">// Audio Feed</h3>
-  <a href="bright-star.mp3" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/originals/24/76/f5/2476f57879b6343ba0eb9bbab3f81eec.gif" alt="Analog EQ Visualizer" width="200" style="border-radius: 4px; border: 1px solid #333333; margin-bottom: 10px; filter: grayscale(100%) sepia(100%) hue-rotate(-50deg) saturate(600%);">
+<!-- ┤ HEADER FRAME ├────────────────────────────────────────────── -->
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   S U M A N T H   S   S H E T                        ║
+║   ─────────────────────────────                      ║
+║   VR / AR  ·  UNITY  ·  REAL-TIME ENVIRONMENTS       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://miro.medium.com/v2/resize:fit:720/1*qG_RwziKYfcBHoQpSnDPXg.gif"
+  width="85%"
+  style="filter: grayscale(100%) brightness(35%) sepia(100%) hue-rotate(-50deg) saturate(600%); border-radius: 4px;" />
+
+<br><br>
+
+<!-- ┤ AMBIENT TRACK ├ -->
+> `▶ NOW PLAYING` — **Yung Koolade · Bright Star 1994** — [Listen →](https://app.soundstripe.com/songs/9018)
+
+<br>
+
+</div>
+
+---
+
+<!-- ┤ ABOUT ├──────────────────────────────────────────────────── -->
+
+```
+ABOUT ──────────────────────────────────────────────────
+```
+
+I build virtual and augmented reality experiences — focused on
+real-time rendering, spatial interaction, and immersive world-building
+in **Unity** and **Unreal Engine**.
+
+Currently based at **NITK Surathkal · Centre for System Design.**
+
+<br>
+
+<!-- ┤ TOOLS ├──────────────────────────────────────────────────── -->
+
+```
+TOOLS ──────────────────────────────────────────────────
+```
+
+<p>
+  &nbsp;
+  <a href="https://unity.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+      alt="Unity" width="38" height="38" />
   </a>
-  <p style="color: #A9A9A9; font-family: monospace; font-size: 0.9em; margin-top: 0;">
-    [ ▶︎ ] <i>Playing: Yung Koolade - Bright Star 1994</i>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #FF0000; font-family: monospace;">// Connect</h3>
-  <a href="https://www.linkedin.com/in/sumanth-s-shet/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="background-color: #121212; border-radius: 4px; padding: 2px;"/>
+  &nbsp;&nbsp;
+  <a href="https://www.unrealengine.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
+      alt="Unreal Engine" width="38" height="38" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #FF0000; font-family: monospace;">// Stack & Tools</h3>
-  <p>
-    <a href="https://www.unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" style="background-color: #121212; border-radius: 4px; padding: 2px; margin: 0 5px;"/>
-    </a>
-    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" style="background-color: #121212; border-radius: 4px; padding: 2px; margin: 0 5px;"/>
-    </a>
-    <a href="https://www.twinmotion.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Twinmotion-121212?style=for-the-badge&logo=epicgames&logoColor=white&borderColor=FF0000" alt="Twinmotion" height="40" style="border-radius: 4px; margin: 0 5px;"/>
-    </a>
-    <a href="https://aframe.io/" target="_blank" rel="noreferrer">
-       <img src="https://img.shields.io/badge/A--Frame-121212?style=for-the-badge&logo=aframe&logoColor=ef2d5e&borderColor=FF0000" alt="A-Frame" height="40" style="border-radius: 4px; margin: 0 5px;"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="background-color: #121212; border-radius: 4px; padding: 2px; margin: 0 5px;"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="background-color: #121212; border-radius: 4px; padding: 2px; margin: 0 5px;"/>
-    </a>
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #FF0000; font-family: monospace;">// Telemetry</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsshet&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF0000&text_color=A9A9A9&border_color=333333" alt="Top Languages" style="margin-bottom: 10px;" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthsshet&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF0000&text_color=A9A9A9&border_color=333333" alt="GitHub Stats" style="margin-bottom: 10px;" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsshet&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=333333" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3 style="color: #FF0000; font-family: monospace;">// Achievements</h3>
-  <a href="https://holopin.io/@sumanthsshet">
-    <img src="https://holopin.me/sumanthsshet" alt="Holopin Badges" style="background-color: #0D0D0D; border: 1px solid #333333; border-radius: 4px;"/>
+  &nbsp;&nbsp;
+  <a href="https://www.twinmotion.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/epicgames/ffffff"
+      alt="Twinmotion (Epic)" width="38" height="38" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.cprogramming.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="C" width="38" height="38" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="C++" width="38" height="38" />
+  </a>
+</p>
+
+<br>
+
+<!-- ┤ STATS ├───────────────────────────────────────────────────── -->
+
+```
+STATS ──────────────────────────────────────────────────
+```
+
+<div align="center">
+
+<img height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsshet&layout=compact&theme=dark&bg_color=0d0d0d&title_color=cc2200&text_color=888888&border_color=222222&hide_border=false"
+/>
+
+<br><br>
+
+<img height="160"
+  src="https://github-readme-stats.vercel.app/api?username=sumanthsshet&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=cc2200&text_color=888888&icon_color=cc2200&border_color=222222&hide_border=false"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsshet&theme=dark&background=0d0d0d&ring=cc2200&fire=cc2200&currStreakLabel=cc2200&sideLabels=888888&dates=555555&border=222222"
+/>
+
 </div>
+
+<br>
+
+<!-- ┤ BADGES ├──────────────────────────────────────────────────── -->
+
+```
+HOLOPIN ────────────────────────────────────────────────
+```
+
+<a href="https://holopin.io/@sumanthsshet">
+  <img src="https://holopin.me/sumanthsshet" alt="Holopin Badges" />
+</a>
+
+<br><br>
+
+<!-- ┤ CONNECT ├─────────────────────────────────────────────────── -->
+
+```
+CONNECT ────────────────────────────────────────────────
+```
+
+<a href="https://www.linkedin.com/in/sumanth-s-shet/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="LinkedIn" height="28" width="36" />
+</a>
+
+<br><br>
+
+<!-- ┤ FOOTER FRAME ├─────────────────────────────────────────────── -->
+
+<div align="center">
+
+```
+╚══[ NITK · CSD · VR/AR · UNITY ECOSYSTEM ]══╝
+```
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
