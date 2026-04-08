@@ -4,13 +4,7 @@
 
 # Sumanth S Shet
 
-<sub>VR · AR · Real-Time Environments · Unity · Unreal Engine</sub>
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sumanth--s--shet-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-s-shet/)
-&nbsp;
-[![NITK CSD](https://img.shields.io/badge/NITK-Centre%20for%20System%20Design-111111?style=flat-square)](https://www.nitk.ac.in)
+<sub>I make things you can look around in.</sub>
 
 <br>
 
@@ -18,38 +12,26 @@
 
 ---
 
-I build virtual and augmented reality experiences — focused on real-time rendering, spatial interaction, and immersive world-building.
+Hey. I'm Sumanth — I build VR/AR experiences, real-time 3D worlds, and the occasional game that nobody asked for but I made anyway.
 
-Currently a **Junior Research Fellow & VR/AR Developer** at NITK Surathkal's Centre for System Design, working with Dr. Pruthviraj Umesh.
-
-<br>
-
-**Tools & Technologies**
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/threedotjs/ffffff" alt="Three.js" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/blender/ffffff" alt="Blender" width="32" height="32" />
-</p>
+My day job is building immersive environments. My night job is also building immersive environments, just with more lo-fi music and fewer deadlines.
 
 <br>
 
----
-
-**Focus Areas**
+**What I reach for**
 
 ```
-XR Development       →   Quest 3 · WebXR · Mixed Reality
-Digital Twins        →   Architectural Viz · Interactive Environments
-Real-Time 3D         →   Three.js · Unreal · Game Dev
-Interactive Web      →   Phaser · React · Creative Coding
+VR / AR              →   Unity · Unreal Engine · WebXR · Quest 3
+3D on the Web        →   Three.js · Interactive Environments
+Game Dev             →   Phaser 3 · C++ · Real-time everything
+Creative Coding      →   Things that move, react, and feel alive
 ```
+
+<br>
+
+**What I'm into right now**
+
+Building digital twins, experimenting with WebXR, and trying to make browser-based 3D feel as good as native. Also F1. Always F1.
 
 <br>
 
@@ -78,5 +60,11 @@ Interactive Web      →   Phaser · React · Creative Coding
 ---
 
 <div align="center">
-<sub>NITK Surathkal &nbsp;·&nbsp; Centre for System Design &nbsp;·&nbsp; Mangaluru, India</sub>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-s-shet/)
+
+<br>
+
+<sub>If you've made it this far, we're basically friends.</sub>
+
 </div>
