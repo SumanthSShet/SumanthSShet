@@ -40,17 +40,17 @@ Building digital twins, experimenting with WebXR, and trying to make browser-bas
 <div align="center">
 
 <img height="150"
-  src="https://github-readme-stats.vercel.app/api?username=sumanthsshet&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=666666&icon_color=ffffff&border_color=1a1a1a&hide_border=false&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=sumanthsshet&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c45c28&text_color=666666&icon_color=c45c28&border_color=1a1a1a&hide_border=false&count_private=true"
 />
 &nbsp;&nbsp;
 <img height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsshet&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=666666&border_color=1a1a1a&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsshet&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c45c28&text_color=666666&border_color=1a1a1a&hide_border=false"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsshet&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&border=1a1a1a"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsshet&theme=dark&background=0d0d0d&ring=c45c28&fire=c45c28&currStreakLabel=c45c28&sideLabels=666666&dates=444444&border=1a1a1a"
 />
 
 </div>
@@ -61,7 +61,15 @@ Building digital twins, experimenting with WebXR, and trying to make browser-bas
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-s-shet/)
+**Holopin**
+
+<a href="https://holopin.io/@sumanthsshet">
+  <img src="https://holopin.me/sumanthsshet" alt="Holopin Badges" />
+</a>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-c45c28?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-s-shet/)
 
 <br>
 
